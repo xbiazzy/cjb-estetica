@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cjbestetica.com.br/sitemap.xml
